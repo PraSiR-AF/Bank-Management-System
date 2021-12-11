@@ -1,7 +1,5 @@
 # Bank-Management-System
 
-PROJECT SYNOPSIS
-
 A fully automated basic Bank Management System built using Python and MySQL, has been designed keeping in mind the objective facilitate a fully computerized automated system over the existing manual system. It has been observed that the present system contains many loop-holes which lead to faulty system outputs and data redundancy. Lots of manual/handwritten processes are involved in the current system which have been improved and converted to automated forms to produce error-less outputs.
 
 The proposed system has the following silent features:
